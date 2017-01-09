@@ -1,0 +1,61 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<link rel="stylesheet" type="text/css" href="css/style.css"/>
+<title>Glassgow</title>
+</head>
+
+<body>
+ <div id="wrapper">
+ 	<div id="header">
+		<div id="logo"><a href="#" ><img src="images/logo.gif" alt="logo" border="0" /></a>
+		</div>
+		 <div id="right_header"></div>
+		 <div id="menu">
+		 	<div id="phone">
+				<p>Call us in Glasgow now to discuss your shutter</p>
+				<p id="space"><span id="space1">07968 318463</span> or <span>07703 276005</span></p>
+			</div>
+			<div id="navigation">
+							<ul>
+								<li class="list"><a href="index.html" class="maron">Home</a></li>
+								<li class="list"><a href="aboutus.html">About the Glasgow Shutter Company</a></li>
+								<li class="list"><a href="shuttergallery.html">Shutter Gallery</a></li>
+								<li class="list"><a href="services.html">Services</a></li>
+								<li id="l1"><a href="#">Contact Us</a></li>
+							</ul>
+	  		</div>
+		</div>
+	</div>
+	<div id="banner_home"></div>
+	<div id="content">
+		<div id="left_content"><h1>Welcome to the Glasgow Shutter Company, supplying and fitting beautiful wooden shutters to Glasgow, Edinburgh and central Scotland</h1>
+
+<p id="para1">We are a Scottish shutters company based in Glasgow and we fit and supply simply stylish and bespoke <a href="#">wooden plantation shutters</a> to our clients in Glasgow, Edinburgh and Central Scotland. Our shutters are custom made of hardwood, either American Poplar or Elm, they are then either painted to any colour desired or stained for different wood effects. They come with different sized louvres and frames that can be adapted to fit most windows from a modern edinburgh townhouse to a traditional Glasgow tenement.</p>
+<p id="para2">Our shutters do not only look beautiful but will be an added fixture to your home. They keep out the hot sun during the summer months and are fantastic for insulation during the cold winters. They are also very good for reducing noise levels from outside your home</p>
+
+		</div>
+		<div id="right_content"><p id="para3">Our aim is to give our Scottish clients in Glasgow and Edinburgh and Central Scotland a superb service where following an enquiry to us, we will give an estimate of the total cost for supplying and fitting your shutters. If you are happy with our estimated costs, our consultants will then come to your home and advise you on what will work best for you, taking into consideration the window shape and the decor of your room.</p>
+<h1>Expert Shutter Installation</h1>
+<p id="para4">We will take an accurate measurement of your windows. The shutters are then custom made to your individual specifications and they will be fitted by our professional fitters.</p>
+<p id="para5">Whether you live in a traditional Glasgow tenement or a modern townhouse in Edinburgh you will not be disappointed with our simply stylish and <a href="#">bespoke wooden shutters.</a></p>
+		</div>
+	</div>
+	<div id="bottom">
+		<div id="option"><ul id="bottom_list" >
+					<li class="opt"><a href="shuttergallery.html">Shutter Gallery</li>
+					<li class="opt"><a href="aboutus.html">About Us</li>
+					<li class="opt"><a href="services.html">Shutter Services</li>
+					<li class="opt"><a href="#">Contact Us</li>
+					</ul>
+ 		</div>
+ 		<div id="gallery">
+			<div id="our_gallery" ><a href="#"><img src="images/gallery.jpg" border="0" /></a></div>
+			<div id="quick_quote"><a href="#"><img src="images/quote.jpg" border="0" /></a></div>
+		</div>
+ 	</div>
+	<div id="footer">&copy;The Glasgow Shutter Company<span id="space2">Sliced web design</span></div>
+	</div>
+</body>
+</html>
