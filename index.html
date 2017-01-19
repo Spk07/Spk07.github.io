@@ -15,14 +15,16 @@ var TILE_CENTER_HEIGHT = 12;
 var SOURCERECT = {x:0, y:0, width:0, height:0};
 var PAINTRECT = {x:0, y:0, width:1000, height:600};
 
-function init(){
+function init(){ console.log("test0");
 	video = document.getElementById('sourcevid');
 	copycanvas = document.getElementById('sourcecopy');
 	copy = copycanvas.getContext('2d');
+	console.log(copy); console.log("test2";)
 	var outputcanvas = document.getElementById('output');
 	draw = outputcanvas.getContext('2d');
-	setInterval("processFrame()", 33);
-}
+	console.log(draw); console.log("test3";)
+	setInterval("processFrame()", 33); console.log(video); console.log("test1");
+} 
 function createTiles(){
 	var offsetX = TILE_CENTER_WIDTH+(PAINTRECT.width-SOURCERECT.width)/2;
 	var offsetY = TILE_CENTER_HEIGHT+(PAINTRECT.height-SOURCERECT.height)/2;
